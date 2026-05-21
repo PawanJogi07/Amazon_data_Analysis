@@ -1,15 +1,17 @@
-# Amazon  Data Analysis
+# Amazon Data Analysis
 
 <p align="center">
-  <img src="[Uploading amazon.png…]()
-![Uploading amazon.png…]()
-" width="300">
+  <img src="amazon.png" width="300">
 </p>
 
+---
+
 ## 📌 Overview
-This project is based on an **Amazon Titles CSV Dataset** used for **Data Analysis** and **Visualization** using Python libraries like Pandas and Matplotlib.
+
+This project is based on an **Amazon Titles CSV Dataset** used for **Data Analysis** and **Visualization** using Python libraries like **Pandas** and **Matplotlib**.
 
 The project helps in:
+
 - Data Cleaning
 - Data Analysis
 - Graph Visualization
@@ -18,6 +20,7 @@ The project helps in:
 ---
 
 ## 🚀 Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -26,41 +29,20 @@ The project helps in:
 ---
 
 ## 📊 Features
+
 ✔ CSV Data Handling  
 ✔ Data Cleaning  
-✔ Bar Graphs  
+✔ Data Visualization  
+✔ Bar Charts  
 ✔ Pie Charts  
 ✔ Statistical Analysis  
-✔ Visualization using Matplotlib  
 
 ---
 
 ## 📂 Dataset
-The dataset contains Amazon titles information such as:
-- Product Name
-- Category
-- Ratings
-- Reviews
-- Price
 
----
+Dataset File:
 
-
----
-
-## 📷 Sample Visualization
-Graphs are created using **Matplotlib** for better understanding of the dataset.
-
----
-
-## 🔗 GitHub Repository
-
-https://github.com/your-username/your-repository-name
-```
-
----
-
-## 👨‍💻 Author
-**Pawan Jogi**
+```bash
 
 GitHub: https://github.com/your-github-username
