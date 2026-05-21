@@ -39,10 +39,6 @@ The project helps in:
 
 ---
 
-## 📂 Dataset
+# Project Link
 
-Dataset File:
-
-```bash
-
-GitHub: https://github.com/your-github-username
+](https://github.com/PawanJogi07/Amazon_data_Analysis/edit/main/README.md#:~:text=README.-,md,-amazon.ipynb)
